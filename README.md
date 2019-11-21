@@ -4,6 +4,8 @@ This assessment concerns the well-known Boston House Prices [1] dataset and the
 Python [3] packages scipy [2], keras [7], and jupyter [6]. The project is worth 100%
 of your marks for this module, but it is broken into three parts, as follows.
 
+## Housing market data to measure the willingness to pay for clean air.
+
 (20%) Describe: Create a git repository and make it available online for the lecturer
 to clone. The repository should contain all your work for this assessment. Within
 the repository, create a jupyter [6] notebook that uses descriptive statistics and
