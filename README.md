@@ -21,3 +21,22 @@ explain and discuss your findings within the notebook. This part is also worth
 (60%) Predict: Again using the same notebook, use keras [7] to create a neural network
 that can predict the median house price based on the other variables in the dataset.
 
+
+Libraries Used
+
+    numpy - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code, useful linear algebra, Fourier transform, and random number capabilities.
+    
+    Pandas - an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
+    
+    Matplotlib - is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+    
+    Seaborn - is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+    
+    scikit-learn - is a software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+    
+    SciPy - is open-source software for mathematics, science, and engineering. This project specifically uses the scipy.stats module which contains a large number of probability distributions as well as a growing library of statistical functions.
+    
+    StatsModels - is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
+    
+    Keras - Keras is an open-source neural-network library written in Python. It’s used for building deep learning models.
+
